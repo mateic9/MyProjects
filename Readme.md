@@ -1,7 +1,7 @@
 
 
 
-Proiectul a reprezentat implementarea unei platforme de anunturi online.Am implementat in C atat codul pentru client, cat si pentru server.In lipsa unei interfete grafice, comunicarea cu server-ul se face prin terminal. </br>
+Proiectul a reprezentat implementarea unei platforme de anunturi online.Am implementat in C atat codul pentru client, cat si pentru server.In lipsa unei interfete grafice, trimiterea comenzilor si afisarea informatiilor se va face in terminal. </br>
 Au fost implementate functionalitatile de baza ale unei platforme online: </br>
   -creare cont | deconectare | resetare parola </br>
   -cautare anunturi dupa filtru </br> 
