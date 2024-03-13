@@ -8,4 +8,4 @@ Au fost implementate functionalitatile de baza ale unei platforme online:
   -istoric tranzactii | vizualizare oferte | negociere prin intermediul platformei
   
 Stocarea datelor necesare(precum parola useri,username etc.) a fost facuta in sqlite3(compilare cu comanda: gcc ./ex.c -o ./ex -lsqlite3 -std=c99).
-O descriere mai detaliata se afla in RaportProiect.
+O descriere mai detaliata se afla in Springer_Lecture_Notes.
